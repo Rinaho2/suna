@@ -47,9 +47,26 @@
 <h1> Hello lucy </h1>
 <p> this is para </p>
 ```
-```pythone
+```python
 for i in range(10)
     print(i)
 ```
+```css
+nav{
+    display:flex;
+    justify-content:center;
+}
+```
+## Check list
 
+- [x] home page
+- [x] about page 
+- [] contact page
+- [] service page
+
+## link 
+CSS framework [Tailwindcss](https://tailwindcss.com/)
+
+## Image dashboard
+![Dashboard](download.jpg)
 
