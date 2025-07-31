@@ -41,3 +41,15 @@
 `print("hello world")`
 
 `npm install express`
+
+## code multiple line
+```html
+<h1> Hello lucy </h1>
+<p> this is para </p>
+```
+```pythone
+for i in range(10)
+    print(i)
+```
+
+
